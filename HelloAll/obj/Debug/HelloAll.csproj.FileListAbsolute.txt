@@ -1,0 +1,12 @@
+c:\users\anastasiya_shidlovsk\documents\visual studio 2013\Projects\HelloAll\HelloAll\bin\Debug\HelloAll.exe.config
+c:\users\anastasiya_shidlovsk\documents\visual studio 2013\Projects\HelloAll\HelloAll\bin\Debug\HelloAll.exe
+c:\users\anastasiya_shidlovsk\documents\visual studio 2013\Projects\HelloAll\HelloAll\bin\Debug\HelloAll.pdb
+c:\users\anastasiya_shidlovsk\documents\visual studio 2013\Projects\HelloAll\HelloAll\obj\Debug\HelloAll.csprojResolveAssemblyReference.cache
+c:\users\anastasiya_shidlovsk\documents\visual studio 2013\Projects\HelloAll\HelloAll\obj\Debug\HelloAll.exe
+c:\users\anastasiya_shidlovsk\documents\visual studio 2013\Projects\HelloAll\HelloAll\obj\Debug\HelloAll.pdb
+D:\HelloAll\HelloAll\bin\Debug\HelloAll.exe.config
+D:\HelloAll\HelloAll\obj\Debug\HelloAll.exe
+D:\HelloAll\HelloAll\obj\Debug\HelloAll.pdb
+D:\HelloAll\HelloAll\bin\Debug\HelloAll.exe
+D:\HelloAll\HelloAll\bin\Debug\HelloAll.pdb
+D:\HelloAll\HelloAll\obj\Debug\HelloAll.csprojResolveAssemblyReference.cache
